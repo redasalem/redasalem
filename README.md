@@ -43,7 +43,7 @@ Optimized load speed and performance using `Webpack` and `Vite` with bundling, l
 
 ## 📎 Download My Resume
 
-🗂️ [Click here to download my CV (PDF)](https://drive.google.com/file/d/1knmzWKfErOATNjU3uoipbCW3F9NhHIYX/view?usp=sharing)
+🗂️ [Click here to download my CV (PDF)](https://drive.google.com/file/d/10at6U9IrfziPJZdDAR1caux1wj4X1A_o/view?usp=sharing)
 
 ---
 - 📫 Social links
