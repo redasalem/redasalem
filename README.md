@@ -65,6 +65,8 @@ Optimized load speed and performance using `Webpack` and `Vite` with bundling, l
 
 
 <p align="center">
-  🔥 Created with dedication by <strong>Reda Salem</strong> <br>
+  💼 Open to work / collaboration opportunities<br><br>
+  📫 Reach me at: [redasalem287@gmail.com]<br><br>
+  🔥 Created with dedication by <strong>Reda Salem</strong> <br><br>
   🧠 <i>Turning lines of code into impactful experiences.</i>
 </p>
