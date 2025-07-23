@@ -1,6 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%" style="margin-top:50px">
+
 <h1 align="center">🚀 Reda Salem</h1>
-<h3 align="center">👨‍💻 Front-End Developer | React.js | Next.js | TypeScript | TailwindCSS</h3>
+<h3 align="center">👨‍💻 Front-End Developer | React.js | Next.js | TypeScript | Tailwind CSS</h3>
 
 <p align="center">
   <a href="mailto:redasalem287@gmail.com"><img src="https://img.shields.io/badge/Email-redasalem287%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -13,60 +14,73 @@
 
 ## 🧠 Profile
 
-Front-End Developer with a solid foundation in modern web development and a proven ability to build scalable, high-performance applications.  
-Proficient in `HTML`, `CSS`, `JavaScript (ES6+)`, `Sass`, `Tailwind CSS`, `React.js`, `Next.js`, `TypeScript`, and `Webpack`.  
-Known for writing clean, modular code and optimizing performance across devices.  
-Demonstrates strong debugging skills and a problem-solving mindset, with hands-on experience identifying and resolving front-end issues efficiently in real-world projects.  
-Passionate about crafting responsive, user-focused interfaces, collaborating effectively via Git/GitHub, and continuously improving development workflows through best practices.  
-💼 *Experienced with Git workflows, RESTful APIs, responsive UI/UX, and modern JS build tools.*
+💡 A passionate **Front-End Developer** with hands-on experience in building scalable, performant, and SEO-friendly web applications using modern technologies like `React.js`, `Next.js`, and `TypeScript`.
+
+🧩 Strong knowledge of reusable components, modular architecture, and responsive UI/UX design using `Tailwind CSS`, `Sass`, and UI libraries like `ShadCN/UI`, `Material UI`, and `Framer Motion`.
+
+🚀 Adept at API integration using `Axios` and `Fetch`, with practical experience in optimizing app performance through lazy loading, code splitting, and `Webpack`/`Vite` bundling.
+
+🎯 Proven ability to implement SEO best practices in Next.js projects to enhance indexing and visibility.
+
+💼 Highly proficient with version control using `Git` & `GitHub`, with collaborative workflow experience across multiple team projects.
 
 ---
 
 ## 🛠️ Skills
 
-### 🧩 Front-End Development & UI Design
+### 🔧 Front-End Technologies
 
-Built responsive websites using `HTML5`, `CSS3`, `Sass`, `JavaScript (ES6+)`, `Bootstrap 5`, and `TailwindCSS`.  
-Delivered scalable UIs following best coding practices and modular structure.
+- `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Sass`, `TailwindCSS`, `Bootstrap 5`
+- Clean, modular, and semantic code structure
+- Fully responsive & cross-browser compatibility
 
+### ⚛️ React.js & Next.js
 
-### ⚛️ React.js & Next.js Interactive Web Apps
+- SPA & SSR web apps using `React.js`, `Next.js`
+- Routing, dynamic rendering, and API integration
+- Optimized SEO with `next/head`, meta tags, and structured data
 
-Built interactive web apps using `React.js` and `Next.js` with real-time API integration.
+### 🧰 Tools & Libraries
 
+- `TypeScript`, `Axios`, `Fetch`, `Framer Motion`, `Material UI`, `ShadCN/UI`
+- Component animations, modals, dropdowns, dashboards
+- Git workflow, branches, pull requests, and issue tracking
 
+### ⚙️ Build Tools & Optimization
 
-### ⚙️ Performance Optimization & Tools
+- `Webpack`, `Vite` for performance bundling
+- Lazy loading, code splitting, and custom config handling
 
-Optimized load speed and performance using `Webpack` and `Vite` with bundling, lazy loading, and code splitting.
-
+---
 
 ## 📎 Download My Resume
 
-🗂️ [Click here to download my CV (PDF)](https://drive.google.com/file/d/10at6U9IrfziPJZdDAR1caux1wj4X1A_o/view?usp=sharing)
+🗂️ [Click here to download my CV (PDF)](https://drive.google.com/file/d/1EVqIsGO4Wyg_bO-boTy3AsoLkpt0p5Ae/view?usp=sharing)
 
 ---
-- 📫 Social links
+
+## 🌍 Online Presence
+
 <p align="center">
   <a href="https://www.linkedin.com/in/reda-salem-768a97273/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:redasalem287@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/redasalem" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=25" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://redasalem.github.io/Reda_Salem_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-2e8b57?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=25" alt="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-2e8b57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
-
+---
 
 <p align="center">
-  💼 Open to work / collaboration opportunities<br><br>
-  📫 Reach me at: [redasalem287@gmail.com]<br><br>
-  🔥 Created with dedication by <strong>Reda Salem</strong> <br><br>
-  🧠 <i>Turning lines of code into impactful experiences.</i>
+  💼 Open to freelance and full-time opportunities<br><br>
+  📫 Email me at: <strong>redasalem287@gmail.com</strong><br><br>
+  🔥 Crafted with care by <strong>Reda Salem</strong><br><br>
+  🧠 <i>Turning lines of code into seamless user experiences.</i>
 </p>
