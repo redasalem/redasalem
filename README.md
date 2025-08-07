@@ -26,6 +26,33 @@
 
 ---
 
+🚀 Tech Stack & Tools
+
+                                                             💻 Front-End 
+                    
+🎨 Styling	📡 State & APIs	🛠️ Build Tools	🧩 UI Libraries	⚙️ Other Tools
+
+HTML, JavaScript, TypeScript, React.js, Next.js	CSS, Sass, Tailwind CSS, Bootstrap	Fetch, Axios, React Query	Vite, Webpack, npm	Material UI, shadcn/ui	Git, GitHub, VS Code, SEO Best Practices
+
+📦 Technologies That I Know 👨🏻‍💻
+
+<div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Tech Stack Icons</h2></summary> </ul> </div> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,materialui,vite,webpack,npm,git,github,vscode&perline=8" /> </a> </p>
+
+🧠 Why This Stack?
+
+
+✅ Scalable & Modern: Using React & Next.js ensures performance and SEO.
+
+✅ Consistent UI: With Tailwind CSS, shadcn/ui, and Material UI, you get fast, elegant interfaces.
+
+✅ Optimized Build: Vite and Webpack offer rapid development and optimized production builds.
+
+✅ Strong Developer Workflow: With GitHub, VS Code, and best SEO practices — you're building like a pro.
+
+🔥 Ready for Real-World Projects: Whether it's a portfolio, SaaS, or a complex frontend dashboard — you're covered.
+
+---
+
 ## 🛠️ Skills
 
 ### 🔧 Front-End Technologies
@@ -56,6 +83,17 @@
 ## 📎 Download My Resume
 
 🗂️ [Click here to download my CV (PDF)](https://drive.google.com/file/d/1EVqIsGO4Wyg_bO-boTy3AsoLkpt0p5Ae/view?usp=sharing)
+
+---
+
+## 🖥️ Projects Showcase
+
+Visit my [**Portfolio Website**](https://redasalem.github.io/Reda_Salem_Portfolio/) to see:
+
+- Fully responsive real-world apps 🌍  
+- Custom animations & transitions 💫  
+- SEO-optimized pages 📈  
+- Dynamic components & reusable logic 🔁  
 
 ---
 
