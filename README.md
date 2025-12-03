@@ -82,7 +82,7 @@ HTML, JavaScript, TypeScript, React.js, Next.js	CSS, Sass, Tailwind CSS, Bootstr
 
 ## 📎 Download My Resume
 
-🗂️ [Click here to download my CV (PDF)](https://drive.google.com/file/d/1tcOKore85uxkePwXPbWMvJaLOxANIDbf/view)
+🗂️ [Click here to download my CV (PDF)](https://drive.google.com/file/d/1QWJNypNVCROgw3_Jz32KCIV_K60-JrJ-/view)
 
 ---
 
