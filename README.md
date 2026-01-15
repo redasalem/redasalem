@@ -116,9 +116,10 @@ I prioritize:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redasalem&show_icons=true&theme=radical"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=redasalem&theme=radical"/>
+  <img src="https://github-readme-stats.zcy.dev/api?username=redasalem&show_icons=true&theme=radical" />
 </p>
+
+
 
 ---
 
