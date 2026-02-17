@@ -131,7 +131,7 @@ I prioritize:
 ---
 
 ## 📎 Resume
-📄 [Download CV](https://drive.google.com/file/d/1l-kZ5j_89h1dh1iv97D3jE1X1iBhn-VK/view)
+📄 [Download CV](https://drive.google.com/file/d/1MNYifjkRpiy6xXKeAqiXCinVBkOh6mrZ/view?usp=sharing)
 
 ---
 
