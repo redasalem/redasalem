@@ -295,7 +295,7 @@ I enjoy exploring new technologies and sharing knowledge.
 
 📄 Download CV
 
-https://drive.google.com/file/d/1MNYifjkRpiy6xXKeAqiXCinVBkOh6mrZ/view
+https://drive.google.com/file/d/16F5MI205bQZlWwt9JzOrqd6P8PNYPTQY/view?usp=sharing
 
 ---
 
