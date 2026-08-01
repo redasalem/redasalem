@@ -1,3 +1,10 @@
+<h1 align="center"> I'm Reda Salem </h1>
+<h3 align="center">Full-Stack JavaScript Engineer (React | Next.js | Node.js)</h3>
+
+<p align="center">
+  I specialize in architecting scalable SaaS platforms, high-performance E-commerce systems, and robust REST APIs. Passionate about clean architecture, web security, and turning complex requirements into production-ready digital experiences.
+</p>
+<br>
 # 💫 About Me:
 - 🔭 **I’m currently working on:** Architecting scalable SaaS and e-commerce platforms using Next.js, Node.js, and modern backend infrastructure.
 - 👯 **I’m looking to collaborate on:** High-performance Full-Stack applications and robust REST API architectures.
