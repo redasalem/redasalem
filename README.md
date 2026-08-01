@@ -6,12 +6,12 @@
 </p>
 <br>
 # 💫 About Me:
-- 🔭 **I’m currently working on:** Architecting scalable SaaS and e-commerce platforms using Next.js, Node.js, and modern backend infrastructure.
-- 👯 **I’m looking to collaborate on:** High-performance Full-Stack applications and robust REST API architectures.
-- 🤝 **I’m looking for help with:** Advanced System Design patterns and backend optimization techniques.
-- 🌱 **I’m currently learning:** Web and application security methodologies to ensure bulletproof systems.
-- 💬 **Ask me about:** React, Node.js, PostgreSQL, MongoDB, and structuring clean, maintainable codebases.
-- ⚡ **Fun fact:** I approach software engineering exactly like lifting heavy weights—it requires consistency, discipline, and building an unbreakable foundation.
+<p align="left">- 🔭 I’m currently working on:** Architecting scalable SaaS and e-commerce platforms using Next.js, Node.js, and modern backend infrastructure.</p>
+<p align="left">- 👯 I’m looking to collaborate on:** High-performance Full-Stack applications and robust REST API architectures.</p>
+<p align="left">- 🤝 I’m looking for help with:** Advanced System Design patterns and backend optimization techniques.</p>
+<p align="left">- 🌱 I’m currently learning:** Web and application security methodologies to ensure bulletproof systems.</p>
+<p align="left">- 💬 Ask me about:** React, Node.js, PostgreSQL, MongoDB, and structuring clean, maintainable codebases.</p>
+<p align="left">- ⚡ Fun fact:** I approach software engineering exactly like lifting heavy weights—it requires consistency, discipline, and building an unbreakable foundation.</p>
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://reda-website.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-salem-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redasalem287@gmail.com) 
