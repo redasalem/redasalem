@@ -79,8 +79,3 @@
 ## 🌐 Connect With Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://reda-website.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-salem-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redasalem287@gmail.com) [![resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1OPCpxoGmn_JoAVOvflMNVvE1-xvjBlwR/view?usp=sharing)
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=redasalem&icon=0&color=0" alt="Profile Views" />
-  </a>
-</p>
