@@ -53,11 +53,12 @@
 | **🛒 Apex Athletics — Multi-Vendor E-Commerce** | [Live Demo](https://apexathletics-website.vercel.app) | `Next.js` `TypeScript` `Express` `MongoDB` `Redis` `BullMQ` `Stripe Connect` | Decoupled architecture, automated vendor payouts via **Stripe Connect**, atomic MongoDB inventory operations, Redis caching, Resend emails, and **73+ automated tests** with GitHub Actions CI/CD. |
 | **🤖 Khaleeji-Bot — Automated Booking & Notification System** | *Private / Internal* | `React 19` `Vite` `Node.js` `BullMQ` `Redis` `Puppeteer` `Sentry` | Headless browser automation with **Puppeteer Stealth** & proxy routing, high-performance **BullMQ/Redis** job queues, Salla & Prometric webhooks, Joi validation, and Swagger UI docs. |
 | **📈 RankBoost — SEO Rank Tracking SaaS** | [Live Demo](https://seo-rank-tracer-client.vercel.app) | `Next.js` `Node.js` `MongoDB` `Stripe` `Playwright` `Cron` | Automated SERP scraping via **Playwright & Browserbase**, daily scheduled Cron updates, **Stripe Subscriptions** & Customer Portal, and a bilingual (AR/EN) dashboard with full RTL support. |
+| **⚡ Veycraft — AI Career Operations Framework** | [GitHub](https://github.com/redasalem/veycraft) | `Node.js CLI` `Markdown Skills` `Playwright MCP` `GitHub Actions` | Zero-dependency CLI & 50-skill agent operations engine with deterministic eval harness, ATS keyword alignment, and cross-platform CI. |
 
 # 🎓 Education & Certifications:
 - 🏆 **Build with AI: Masr Edition** — Google for Developers & Information Technology Institute (ITI) *(2026)*
 - 📜 **Front-End Development Certificate** — Hsoub Academy *(May 2025)*
-- 🎓 **Bachelor's Degree in Information Systems and Technology** *(2019 – 2023)*
+- 🎓 **Bachelor's Degree in Information Systems and Technology** — Port Said University *(2019 – 2023)*
 
 ---
 
