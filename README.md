@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reda Salem</h1>
-<h3 align="center">Full-Stack JavaScript Engineer (React | Next.js | Node.js | TypeScript)</h3>
+<h3 align="center">Full-Stack Software Engineer | Frontend & Backend Developer (React | Next.js | TypeScript | Node.js | PostgreSQL | MongoDB | Redis | Docker | MCP)</h3>
 
 <p align="center">
-  I specialize in architecting scalable SaaS platforms, high-performance E-commerce systems, and robust REST APIs. Passionate about clean architecture, web security, and turning complex requirements into production-ready digital experiences.
+  I build scalable SaaS platforms, multi-vendor E-commerce systems, REST APIs, and open-source MCP developer tooling. Focused on clean architecture, automated CI/CD testing, web security, and shipping production-ready full-stack web applications.
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 <br>
 
 # 💫 About Me:
-<p align="left">- 🔭 <b>I’m currently working on:</b> Architecting scalable SaaS and e-commerce platforms using Next.js, Node.js, TypeScript, and modern backend infrastructure.</p>
+<p align="left">- 🔭 <b>I’m currently working on:</b> Building scalable SaaS, e-commerce platforms, and open-source MCP tooling (<a href="https://github.com/redasalem/veycraft">Veycraft v2.4.0</a>) using Next.js, React, TypeScript, Node.js, PostgreSQL, and Redis.</p>
 <p align="left">- 🤖 <b>AI-Augmented Workflow:</b> Shipping faster without compromising quality using AI coding agents (<b>Claude, Antigravity, OpenCode</b>) connected via <b>Model Context Protocol (MCP)</b> to GitHub and filesystem servers under a strict review-driven workflow.</p>
 <p align="left">- 👯 <b>I’m looking to collaborate on:</b> High-performance Full-Stack applications, Multi-Vendor Systems, and robust REST API architectures.</p>
 <p align="left">- 🤝 <b>I’m looking for help with:</b> Advanced System Design patterns and distributed backend optimization techniques.</p>
 <p align="left">- 🌱 <b>I’m currently learning:</b> Advanced Web & Application Security methodologies to ensure bulletproof systems.</p>
-<p align="left">- 💬 <b>Ask me about:</b> React, Next.js (App Router, SSR), Node.js, Express, PostgreSQL, MongoDB, Redis, BullMQ, and structuring clean, maintainable codebases.</p>
+<p align="left">- 💬 <b>Ask me about:</b> React, Next.js (App Router, SSR), TypeScript, Node.js, Express, PostgreSQL, MongoDB, Redis, BullMQ, Docker, CI/CD, and Model Context Protocol (MCP).</p>
 <p align="left">- ⚡ <b>Fun fact:</b> I approach software engineering exactly like lifting heavy weights—it requires consistency, discipline, and building an unbreakable foundation.</p>
 
 
@@ -51,14 +51,14 @@
 | :--- | :---: | :--- | :--- |
 | **🚗 C4R — Car Rental Platform** | [c4rplatform.com](https://c4rplatform.com) | `Next.js` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Zod` | **95+ Lighthouse SEO score** (SSR + JSON-LD), dynamic hourly/daily pricing calculator, admin dashboard with server-side pagination, and hardened security (JWT, Helmet, XSS & Mongo sanitization). |
 | **🛒 Apex Athletics — Multi-Vendor E-Commerce** | [Live Demo](https://apexathletics-website.vercel.app) | `Next.js` `TypeScript` `Express` `MongoDB` `Redis` `BullMQ` `Stripe Connect` | Decoupled architecture, automated vendor payouts via **Stripe Connect**, atomic MongoDB inventory operations, Redis caching, Resend emails, and **73+ automated tests** with GitHub Actions CI/CD. |
-| **🤖 Khaleeji-Bot — Automated Booking & Notification System** | *Private / Internal* | `React 19` `Vite` `Node.js` `BullMQ` `Redis` `Puppeteer` `Sentry` | Headless browser automation with **Puppeteer Stealth** & proxy routing, high-performance **BullMQ/Redis** job queues, Salla & Prometric webhooks, Joi validation, and Swagger UI docs. |
+| **🤖 PRO-BOT (Khaleeji-Bot) — Automated Booking & Notification System** | [Frontend Repo](https://github.com/redasalem/pro-bot-v2-frontend) / [Live App](https://khaleeji-bot-v2-frontend.tech-rm-re.workers.dev/login) | `React 19` `Vite` `Node.js` `BullMQ` `Redis` `Puppeteer` `Sentry` | Automated exam scheduling with **Puppeteer** browser automation, high-performance **BullMQ/Redis** job queues, secure webhooks, JWT auth, Joi validation, Jest tests, and Swagger UI docs. |
 | **📈 RankBoost — SEO Rank Tracking SaaS** | [Live Demo](https://seo-rank-tracer-client.vercel.app) | `Next.js` `Node.js` `MongoDB` `Stripe` `Playwright` `Cron` | Automated SERP scraping via **Playwright & Browserbase**, daily scheduled Cron updates, **Stripe Subscriptions** & Customer Portal, and a bilingual (AR/EN) dashboard with full RTL support. |
-| **⚡ Veycraft — AI Career Operations Framework** | [GitHub](https://github.com/redasalem/veycraft) | `Node.js CLI` `Markdown Skills` `Playwright MCP` `GitHub Actions` | Zero-dependency CLI & 50-skill agent operations engine with deterministic eval harness, ATS keyword alignment, and cross-platform CI. |
+| **⚡ Veycraft (v2.4.0) — AI Career Operations CLI & MCP Server** | [GitHub](https://github.com/redasalem/veycraft) · [npm](https://www.npmjs.com/package/veycraft) · [Glama](https://glama.ai/mcp/servers/redasalem/veycraft) | `Node.js CLI` `stdio MCP` `Local Web UI` `53 Markdown Skills` `GitHub Actions` | Zero-dependency (`0/0`) CLI, native `stdio` MCP server (`8` tools), read-only `127.0.0.1` Local Web UI, `53` Markdown skills, **`122/122` 3-OS CI tests**, and `0` CodeQL alerts. |
 
 # 🎓 Education & Certifications:
 - 🏆 **Build with AI: Masr Edition** — Google for Developers & Information Technology Institute (ITI) *(2026)*
 - 📜 **Front-End Development Certificate** — Hsoub Academy *(May 2025)*
-- 🎓 **Bachelor's Degree in Information Systems and Technology** — Port Said University *(2019 – 2023)*
+- 🎓 **Bachelor's Degree in Information Systems and Technology** — Port Said University *(Aug 2019 – Sep 2023)*
 
 ---
 
